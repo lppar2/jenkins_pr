@@ -23,7 +23,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>WordShuffler.java</mainClass>
+                            <mainClass>WordShuffler</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
